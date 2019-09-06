@@ -1,5 +1,7 @@
 Author: laurelineinsight
+
 Last Update : Sep 9 2019
+
 source: https://gist.github.com/ericmjl/27e50331f24db3e8f957d1fe7bbbe510 
 
 # WEEK 1 - CODING SKILLS DEVELOPMENT - Python data science project structure - Workshop Preparation
